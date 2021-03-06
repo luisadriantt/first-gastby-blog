@@ -12,7 +12,10 @@ Kick off your project with this default boilerplate. This starter ships with the
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
+_My first gatsby page._
+
 [Live Demo!!](https://elated-montalcini-7f9d3f.netlify.app/)
+![](blogDemo.png)
 
 ## 🚀 Quick start
 
